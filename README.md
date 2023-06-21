@@ -1,6 +1,12 @@
-# Stable diffusion项目的部署
 
-## 部署Stable Diffusion前的准备
+# Stable diffusion项目的部署
+<h3>本教程已上传视频教程于哔哩哔哩<br>
+网址：
+<br>
+ <br>
+ <br>
+ <br>
+部署Stable Diffusion前的准备
 
 1. 检查电脑是否满足最低配置（显存至少4GB,只能是N卡！，本地磁盘要求有15GB）
 
