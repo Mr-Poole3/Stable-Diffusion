@@ -101,3 +101,56 @@ git clone https: //github.com/AUTOMATIC1111/stablediffusion-webui.git
 
 *然后你就可以开始尽情发挥自己的创作想法了！！！*
 
+# Stable Diffusion插件—SadTalker
+
+看到这儿里，你已经迫不及待想要在自己的电脑上面部署Stable Diffusion了，但是，我还发现了一个更有趣的模型——SadTalker，talker顾名思义，是一个说话的人，他的作用就是通过模型，将一张图片和一段音频合成为一个动态的视频。
+
+## 前期准备
+
+1. 安装python3.10.6.
+
+2. 安装git.
+
+3. 安装ffmpeg，详细教程：[如何在Windows上安装FFmpeg：15个步骤（带图片） (wikihow.com)](https://www.wikihow.com/Install-FFmpeg-on-Windows)
+
+## 安装
+
+1.得益于Stable Diffusion的插件属性，我们可以直接从其插件页进行克隆SadTalker的库，具体实现如下：
+
+![image](https://github.com/Mr-Poole3/Stable-Diffusion/assets/112788987/8e5b327b-342a-4999-97aa-1428ae262bd2)
+
+
+下载完之后可以在installed处检查会出现sadtalker的标志，如果有就下载成功了，如果没有可能是因为网络原因，多试几次，如果不行那就上gitup下载，并把下载后的插件放到sd栏目中的，E:\stable-diffusion-webui_23-04-18\extensions文件中。
+
+2.下载预训练模型
+
+1. [sadtalker.zip - Google 云端硬盘](https://drive.google.com/file/d/1gwWh45pF7aelNP_P78uDJL8Sycep-K7j/view)
+
+2. [gfpgan.zip - Google 云端硬盘](https://drive.google.com/file/d/19AIBsmfcHW6BRJmeqSFlG5fL445Xmsyi/edit)
+
+​	需要魔法上网
+
+​	百度网盘：
+
+​	1.https://pan.baidu.com/share/init?surl=P4fRgk9gaSutZnn8YW034Q&pwd=sadt）
+
+​	2.（https://pan.baidu.com/s/1kb1BCPaLOWX1JJb9Czbn6w?pwd=sadt）
+
+两个预训练模型下载好后将这两个文件夹复制粘贴到你的SadTalker文件夹中去
+
+![image](https://github.com/Mr-Poole3/Stable-Diffusion/assets/112788987/662ed403-c7e4-4315-88e0-a9a6679366d5)
+
+
+![image-20230621142123399](C:\Users\28402\AppData\Roaming\Typora\typora-user-images\image-20230621142123399.png)
+
+
+![tmpwqvcjocw__1-0-100](https://github.com/Mr-Poole3/Stable-Diffusion/assets/112788987/cca26f56-64e7-4033-ab75-1c431f990397)
+
+
+
+
+
+5.大功成啦！！！现在导入你的图片和音频就能实现啦！！（大概3秒需要30s，这取决于你的GPU和是否安装CUDA)
+
+
+
