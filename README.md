@@ -6,6 +6,10 @@
  <br>本项目文件位于master分支中
  <br>现在界面位于main分支，如果想要克隆项目，请到master分支中进行克隆
  <br>
+ <br>
+ <br>
+  <br>
+  <br>
 部署Stable Diffusion前的准备
 
 1. 检查电脑是否满足最低配置（显存至少4GB,只能是RTX或者10系以上GTX！，本地磁盘要求有15GB）
