@@ -157,6 +157,11 @@ git clone https: //github.com/AUTOMATIC1111/stablediffusion-webui.git
 
 
 5.大功成啦！！！现在导入你的图片和音频就能实现啦！！（大概3秒需要30s，这取决于你的GPU和是否安装CUDA)
-后面我也会教大家如何基于Stable Diffusion来训练一个属于自己想要的风格的Lora模型   网址：
+后面我也会教大家如何基于Stable Diffusion来训练一个属于自己想要的风格的Lora模型   网址：https://github.com/Mr-Poole3/Lora-model/tree/main
 
+<br>
+再次感谢<br>https://github.com/Stability-AI/StableDiffusion<br>
+https://github.com/OpenTalker/SadTalker<br>
+https://github.com/bmaltais/kohya_ss<br>
+项目的开源！！！
 
