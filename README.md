@@ -1,7 +1,7 @@
 
 # Stable diffusion项目的部署
 <h3>本教程已上传视频教程于哔哩哔哩<br>
-网址：
+网址：https://www.bilibili.com/video/BV1ah411K7Jp/
 <br>
  <br>
  <br>
