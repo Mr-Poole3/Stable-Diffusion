@@ -3,8 +3,8 @@
 <h3>本教程已上传视频教程于哔哩哔哩<br>
 网址：https://www.bilibili.com/video/BV1ah411K7Jp/
 <br>
- <br>
- <br>
+ <br>本项目文件位于master分支中
+ <br>现在界面位于main分支，如果想要克隆项目，请到master分支中进行克隆
  <br>
 部署Stable Diffusion前的准备
 
